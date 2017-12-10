@@ -1,6 +1,6 @@
-# Laravel Social Dashboard Boilerplate
+# Laravel Dashboard Boilerplate
 
-Hello all, this is a social dashboard boilerplate built with Laravel 5.2 auth, Migrations generator (https://github.com/Xethron/migrations-generator), Laracasts flash notifications, and some other javascript plugins that you cand find under the resources.
+Hello all, this is a dashboard boilerplate built with Laravel 5.2 auth, Migrations generator (https://github.com/Xethron/migrations-generator), Laracasts flash notifications, and some other javascript plugins that you cand find under the resources.
 
 ## Installation
 
